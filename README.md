@@ -1,4 +1,4 @@
 CASViewPager
 ============
 
-iOS component, which mimiks Android's viewpager along with viewpagerindicator
+iOS component, which mimics Android's viewpager and viewpagerindicator
